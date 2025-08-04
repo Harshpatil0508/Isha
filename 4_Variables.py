@@ -6,6 +6,9 @@ myVariableName = "Camel Case"
 # 2. Pascal Case
 MyVariableName = "Pascal Case"
 
+# 3. Snake case
+my_variable_name = "Snake case"
+
 # many values to multiple variables
 a,b,c = 10, 20, 30
 print(a, b, c)
